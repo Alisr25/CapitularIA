@@ -14,8 +14,6 @@ Neste projeto, atuei principalmente como **Desenvolvedora Mobile Front-end** e *
 
 * **UI/UX Design:** Criação de wireframes e protótipos de alta fidelidade no **Figma**, focando na experiência do usuário.
 * **Front-end Mobile (XML):** Implementação das interfaces no Android Studio utilizando XML e Material Design.
-* **Integração (Kotlin):** Desenvolvimento da lógica de consumo da **Google Books API** para busca e exibição de detalhes dos livros.
-* **Lógica de Negócio:** Implementação de funcionalidades de cadastro e organização das listas de leitura.
 
 ---
 
