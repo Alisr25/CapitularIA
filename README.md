@@ -27,6 +27,7 @@ Neste projeto, atuei principalmente como **Desenvolvedora Mobile Front-end** e *
 * **API:** Google Books API
 * **IA (Em breve):** Integração com Gemini para recomendações personalizadas.
 * **Gerenciamento:** Git/GitHub
+* **Banco de Dados:** Firebase
 
 ---
 
